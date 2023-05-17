@@ -1,5 +1,5 @@
 # BatScripts
-This repository is created to keet my codes that help me on daily tasks.
+This repository is created to keep my codes that help me on daily tasks.
 
 Scripts on this repository until now:
 
