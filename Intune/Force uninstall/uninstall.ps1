@@ -1,3 +1,7 @@
+# Created by danieldalessandro
+# Last update 01/06/2023
+
+
 # Cria o arquivo de log
 $Logfile = "C:\temp\awsremoved.txt"
 
